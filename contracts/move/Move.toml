@@ -1,0 +1,16 @@
+[package]
+name = "DAOnationTest3"
+version = "1.0.0"
+authors = []
+upgrade_policy = "compatible"
+
+[addresses]
+daonation_addr='_'
+
+[dependencies]
+AptosFramework = { local = "./framework/aptos-framework" }
+
+
+[dev-dependencies]
+
+
